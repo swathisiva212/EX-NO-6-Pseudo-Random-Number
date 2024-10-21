@@ -2,10 +2,10 @@
 # AIM: 
 Implementation of Pseudorandom Number Generation Using Standard library
 ## PROGRAM:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 int main() 
 {
     int count, min, max;
